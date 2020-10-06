@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplikasi Input Nama</string>
+    <string name="txt_nama_lengkap">Nama Lengkap</string>
+    <string name="edit_text_nama_lengkap">Masukkan nama lengkap anda</string>
+    <string name="txt_alamat">Alamat</string>
+    <string name="edit_text_alamat">Masukkan alamat anda</string>
+    <string name="button_simpan">Simpan</string>
+    <string name="button_bersihkan">Bersihkan</string>
+</resources>
